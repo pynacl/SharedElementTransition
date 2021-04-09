@@ -1,3 +1,5 @@
+<img src="https://github.com/pynacl/SharedElementTransition/blob/master/demo.gif" align="center" height="700">
+
 You can specify custom effects for entering and exiting fragments and for transitions of shared elements between fragments.
 
 - An enter effect determines how a fragment enters the screen. For example, you can create an effect to slide the fragment in from the edge of the screen when you navigate to it.
